@@ -24,8 +24,8 @@
   
 Keep in mind there are multiple ways to go about doing this, different combinations to create the same outcome. There is no one "right" way.
   
-5. Create a new repository on GitHub and upload your project.
+6. Push your project to GitHub.
   
-6. Post your repo's URL on Slack to "turn in" your assignment.
+7. Share your repo's URL on Slack to "turn in" your assignment.
   
-7. Extra credit: try to do this assignment again, only this time using flexbox properties.
+8. **Extra credit:** try to do this assignment again, only this time using [flexbox properties](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox).
